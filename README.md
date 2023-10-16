@@ -8,9 +8,9 @@ GitHubの練習用リポジトリ
 - bbbb
 - cccc
 
-1.AAAA
-1.BBBB
-1.CCCC
+1. AAAA
+1. BBBB
+1. CCCC
 
-aaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbb
+frhytjhytd
+thdhtbhdghtd
